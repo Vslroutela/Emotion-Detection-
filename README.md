@@ -1,5 +1,5 @@
 Name: Vishal Routela 
-# Emotion-Bhind-Text
+# Emotion-Behind-Text
 
 Emotion-Bhind-Text is a project designed to analyze emotions in textual data, utilizing various machine learning and data visualization techniques. The application provides interactive features to explore and visualize emotional insights derived from text.
 
